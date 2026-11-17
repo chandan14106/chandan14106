@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **backend development**
 
-- 🌱 I’m currently learning **Node.js, Express.js, Mongodb**
+- 🌱 I’m currently learning **Machine Learning, and Artificial Intelligence Express.js, **
 
-- 💬 Ask me about **HTML, CSS , Javascript , React.js ,C++,Mysql**
+- 💬 Ask me about **HTML, CSS , Javascript , React.js ,C++,Python,Mysql,Node.js,mongodb,express.js**
 
 - 📫 How to reach me **ck107445@gmail.com**
 
